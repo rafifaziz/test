@@ -1,0 +1,27 @@
+body{
+    /*background-color: #EOFFFF;*/
+}
+
+.row .kanan li{
+    float: left;
+    list-style: none;
+    width: 15%;
+    line-height: 40px;
+}
+
+.row .kanan li a{
+        color: white
+}
+
+
+.row .kanan li a:hover{
+        text-decoration: none;
+        color: #FFBEA8
+        
+}
+
+.btn-custom { 
+    color: #50CC50; 
+    background-color: #ffffff; 
+    border-color: #ffffff; 
+  } 
